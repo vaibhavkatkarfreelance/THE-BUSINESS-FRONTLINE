@@ -24,3 +24,31 @@
   .kicker { @apply text-sm font-semibold text-accent; }
   .field { @apply w-full rounded-sm border border-ink/25 bg-white px-4 py-3 text-base text-ink placeholder:text-muted/70 focus:border-accent; }
 }
+
+@keyframes trending-focus-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+.trending-marquee {
+  min-width: 0;
+  overflow: hidden;
+  color: rgb(11 19 43 / 0.75);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.trending-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: trending-focus-scroll 32s linear infinite;
+}
+
+.trending-marquee:hover .trending-marquee-track,
+.trending-marquee:focus-within .trending-marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .trending-marquee-track { animation: none; }
+}

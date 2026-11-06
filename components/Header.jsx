@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
-import { BookOpen, Menu, Search, X } from "lucide-react";
+import { Menu, Search, X } from "lucide-react";
 import Logo from "./Logo";
 
 export default function Header({ latestSlug }) {
@@ -36,26 +36,6 @@ export default function Header({ latestSlug }) {
 
   return (
     <header className="sticky top-0 z-40 border-b border-sand-deep/80 bg-paper/95 backdrop-blur-md">
-      {/* Executive Top Banner */}
-      <div className="hidden bg-ink text-xs text-white/80 md:block">
-        <div className="wrap flex h-9 items-center justify-between">
-          <div className="flex items-center gap-3">
-            <span className="inline-flex items-center gap-1.5 rounded-full bg-accent/20 px-2 py-0.5 text-[0.68rem] font-bold tracking-widest text-accent uppercase">
-              Global Circulation
-            </span>
-            <p className="text-white/70">The Business Frontline: C-Suite Intelligence, Strategy & Innovation</p>
-          </div>
-          <div className="flex items-center gap-5 text-white/75">
-            <Link href={`/magazine/${latestSlug || "global-icons-of-leadership"}/read`} className="flex items-center gap-1.5 transition-colors hover:text-accent">
-              <BookOpen size={13} className="text-accent" />
-              <span>Current Issue</span>
-            </Link>
-            <span className="h-3 w-px bg-white/20" aria-hidden="true" />
-            <Link href="/contact" className="transition-colors hover:text-white">Editorial Pitch</Link>
-          </div>
-        </div>
-      </div>
-
       {/* Main Navbar */}
       <div className="wrap flex h-16 items-center justify-between gap-4 md:h-[4.75rem]">
         <Logo />

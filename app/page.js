@@ -34,19 +34,25 @@ export default function HomePage() {
             Trending Focus
           </span>
           <span className="h-3 w-px bg-sand-deep" aria-hidden="true" />
-          <div className="flex items-center gap-6 overflow-x-auto whitespace-nowrap text-ink/75 font-medium scrollbar-none">
-            <Link href="/blog/the-algorithmic-boardroom" className="hover:text-accent transition-colors">
-              • Autonomous Intelligence in Fortune 500 Boardrooms
-            </Link>
-            <Link href="/blog/sovereign-ai-race" className="hover:text-accent transition-colors">
-              • Sovereign AI & Global Compute Infrastructure
-            </Link>
-            <Link href="/blog/decarbonizing-heavy-industry" className="hover:text-accent transition-colors">
-              • Clean Hydrogen & Industrial Net-Zero Capital
-            </Link>
-            <Link href="/blog/fintech-beyond-borders" className="hover:text-accent transition-colors">
-              • Next-Gen Cross-Border Treasury Settlements
-            </Link>
+          <div className="trending-marquee" aria-label="Trending stories">
+            <div className="trending-marquee-track">
+              {[0, 1].map((set) => (
+                <div key={set} className="flex shrink-0 items-center gap-6" aria-hidden={set === 1}>
+                  <Link href="/blog/the-algorithmic-boardroom" className="hover:text-accent transition-colors">
+                    • Autonomous Intelligence in Fortune 500 Boardrooms
+                  </Link>
+                  <Link href="/blog/sovereign-ai-race" className="hover:text-accent transition-colors">
+                    • Sovereign AI & Global Compute Infrastructure
+                  </Link>
+                  <Link href="/blog/decarbonizing-heavy-industry" className="hover:text-accent transition-colors">
+                    • Clean Hydrogen & Industrial Net-Zero Capital
+                  </Link>
+                  <Link href="/blog/fintech-beyond-borders" className="hover:text-accent transition-colors">
+                    • Next-Gen Cross-Border Treasury Settlements
+                  </Link>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </div>
