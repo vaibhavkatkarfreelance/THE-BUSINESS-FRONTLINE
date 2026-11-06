@@ -1,0 +1,38 @@
+[
+  {
+    "id": "leadership",
+    "slug": "leadership",
+    "name": "Leadership",
+    "description": "Executive profiles, C-suite insights, and transformative management philosophies."
+  },
+  {
+    "id": "technology",
+    "slug": "technology",
+    "name": "Technology & AI",
+    "description": "Enterprise intelligence, cloud computing, cybersecurity, and emerging tech revolutions."
+  },
+  {
+    "id": "finance",
+    "slug": "finance",
+    "name": "Finance & Banking",
+    "description": "Global markets, fintech disruption, venture capital, and macroeconomic trends."
+  },
+  {
+    "id": "strategy",
+    "slug": "strategy",
+    "name": "Strategy & Governance",
+    "description": "Corporate foresight, board dynamics, resilience, and operational excellence."
+  },
+  {
+    "id": "sustainability",
+    "slug": "sustainability",
+    "name": "Sustainability & ESG",
+    "description": "Decarbonization, circular economies, and sustainable corporate governance."
+  },
+  {
+    "id": "innovation",
+    "slug": "innovation",
+    "name": "Innovation",
+    "description": "Breakthrough industrial models, digital twins, and venture creation."
+  }
+]

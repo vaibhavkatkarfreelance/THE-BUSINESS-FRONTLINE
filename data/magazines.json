@@ -1,0 +1,295 @@
+[
+  {
+    "id": "mag-001",
+    "slug": "global-icons-of-leadership",
+    "title": "Global Icons of Leadership",
+    "subtitle": "The C-Suite Vanguard Shaping Modern Commerce",
+    "description": "Our flagship annual edition spotlights the world's most visionary CEOs, founders, and changemakers steering multi-billion dollar enterprises through technological upheaval and macroeconomic shifts.",
+    "overview": "In this landmark edition of The Business Frontline, we explore how forward-thinking executives balance shareholder value with sustainable innovation, long-term talent cultivation, and ethical governance.",
+    "category": "Leadership",
+    "coverImage": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/the-quiet-revolution.pdf",
+    "publicationDate": "2026-10-15",
+    "volume": 14,
+    "issue": 10,
+    "pageCount": 116,
+    "featured": true,
+    "tags": ["Executive Leadership", "C-Suite", "Global Strategy", "Corporate Governance"],
+    "highlights": [
+      "Exclusive Cover Story: The 2026 Global CEO Survey",
+      "Navigating the Multipolar Economic Landscape",
+      "Executive Compensation vs. Sustainable Impact",
+      "The Boardroom Guide to Generative AI Readiness"
+    ],
+    "relatedArticleSlugs": [
+      "the-algorithmic-boardroom",
+      "the-chief-ai-officer",
+      "the-evolution-of-venture-capital"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The mandate for modern business leadership has fundamentally shifted. Beyond quarterly earnings and operational efficiency, today's chief executives must navigate complex geopolitical tensions, accelerating artificial intelligence, and unprecedented workforce expectations."
+      },
+      {
+        "type": "heading",
+        "text": "Inside This Flagship Edition"
+      },
+      {
+        "type": "paragraph",
+        "text": "Across 116 pages of rigorous investigative reporting, exclusive interviews with 35 global chairpersons, and deep-dive sectoral analyses, The Business Frontline delivers the actionable intelligence senior decision-makers demand."
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Cover artwork for Global Icons of Leadership",
+        "caption": "The Business Frontline — Volume 14, Issue 10"
+      },
+      {
+        "type": "heading",
+        "text": "Executive Perspective & Sectoral Insights"
+      },
+      {
+        "type": "paragraph",
+        "text": "Read the full digital edition in your browser or download the complete PDF copy for offline executive review."
+      }
+    ]
+  },
+  {
+    "id": "mag-002",
+    "slug": "the-ai-enterprise-frontier",
+    "title": "The AI Enterprise Frontier",
+    "subtitle": "How Fortune 500 CEOs Deploy Generative Automation",
+    "description": "An exhaustive analysis of generative artificial intelligence entering production: from automated corporate finance to autonomous software delivery and predictive supply chains.",
+    "overview": "We interview CIOs and CTOs who moved beyond proof-of-concepts to enterprise-wide LLM orchestration, examining real ROI, data privacy protocols, and organizational restructuring.",
+    "category": "Technology & AI",
+    "coverImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/machine-and-meaning.pdf",
+    "publicationDate": "2026-09-15",
+    "volume": 14,
+    "issue": 9,
+    "pageCount": 104,
+    "featured": false,
+    "tags": ["Artificial Intelligence", "Enterprise Tech", "CIO Strategy", "Automation"],
+    "highlights": [
+      "The State of Enterprise AI: Production Benchmarks",
+      "Private On-Premises Models vs. Sovereign Cloud",
+      "Workforce Reskilling in the Automated Enterprise",
+      "Risk Mitigation: Hallucinations, Compliance & IP"
+    ],
+    "relatedArticleSlugs": [
+      "the-algorithmic-boardroom",
+      "the-chief-ai-officer",
+      "sovereign-ai-race"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The era of experimentation is decisively over. Enterprise leaders are now demanding quantifiable return on capital invested in artificial intelligence infrastructure, data engineering, and autonomous pipelines."
+      },
+      {
+        "type": "image",
+        "src": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+        "alt": "The AI Enterprise Frontier",
+        "caption": "Volume 14, Issue 9 — Enterprise Intelligence"
+      }
+    ]
+  },
+  {
+    "id": "mag-003",
+    "slug": "sustainable-capital-revolution",
+    "title": "The Sustainable Capital",
+    "subtitle": "Financing the Net-Zero Industrial Transition",
+    "description": "How institutional asset managers, sovereign wealth funds, and private equity are deploying trillions into clean technology, renewable grids, and circular manufacturing.",
+    "overview": "Featuring insights from leading fund managers in Zurich, London, and New York on green bonds, nuclear resurgence, carbon accounting, and regulatory compliance.",
+    "category": "Sustainability & ESG",
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/deep-time.pdf",
+    "publicationDate": "2026-08-15",
+    "volume": 14,
+    "issue": 8,
+    "pageCount": 92,
+    "featured": false,
+    "tags": ["ESG", "Clean Tech", "Green Finance", "Decarbonization"],
+    "highlights": [
+      "The $10 Trillion Energy Transition Roadmap",
+      "Nuclear Renaissance & Datacenter Powering",
+      "Scope 3 Auditing: The New Accounting Reality",
+      "Circular Supply Chains in Heavy Industry"
+    ],
+    "relatedArticleSlugs": [
+      "decarbonizing-heavy-industry",
+      "the-evolution-of-venture-capital"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Capital allocation is driving industrial decarbonization faster than policy alone. This edition looks at the economic reality of the energy transition and the winners emerging in clean infrastructure."
+      }
+    ]
+  },
+  {
+    "id": "mag-004",
+    "slug": "fintech-unleashed",
+    "title": "Fintech Unleashed",
+    "subtitle": "Cross-Border Banking & Next-Gen Digital Assets",
+    "description": "From real-time treasury settlements to central bank digital currencies, we report on the institutions rebuilding the global monetary backbone.",
+    "overview": "Interviews with fintech unicorns, legacy commercial banks, and regulatory bodies navigating tokenization, fraud prevention, and embedded finance.",
+    "category": "Finance & Banking",
+    "coverImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/the-long-ledger.pdf",
+    "publicationDate": "2026-07-15",
+    "volume": 14,
+    "issue": 7,
+    "pageCount": 98,
+    "featured": false,
+    "tags": ["Fintech", "Banking", "Digital Assets", "Payments"],
+    "highlights": [
+      "Real-Time Treasury Management for Global MNCs",
+      "Asset Tokenization in Commercial Real Estate",
+      "Open Banking in North America & Europe",
+      "AI in Algorithmic Credit Risk Assessment"
+    ],
+    "relatedArticleSlugs": [
+      "fintech-beyond-borders",
+      "the-evolution-of-venture-capital"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The friction of global finance is evaporating. Modern treasury teams can now move capital across six continents in sub-second intervals, reshaping liquidity and corporate finance forever."
+      }
+    ]
+  },
+  {
+    "id": "mag-005",
+    "slug": "architects-of-the-cloud",
+    "title": "Architects of the Modern Cloud",
+    "subtitle": "Sovereignty, Scale & Quantum Cybersecurity",
+    "description": "Why global enterprises are rethinking hybrid infrastructure, sovereign data jurisdictions, and quantum-resistant cryptographic security.",
+    "overview": "CISO briefings, architectural case studies, and strategic guidance for modernizing legacy tech stacks while safeguarding mission-critical IP.",
+    "category": "Technology & AI",
+    "coverImage": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/cities-after-midnight.pdf",
+    "publicationDate": "2026-06-15",
+    "volume": 14,
+    "issue": 6,
+    "pageCount": 100,
+    "featured": false,
+    "tags": ["Cloud Infrastructure", "Cybersecurity", "CISO", "Data Sovereignty"],
+    "highlights": [
+      "Post-Quantum Cryptography Implementation Checklist",
+      "European & Asian Data Sovereignty Regulations",
+      "FinOps: Slashing Multicloud Runaway Expenses",
+      "Zero-Trust Architecture in Distributed Workforces"
+    ],
+    "relatedArticleSlugs": [
+      "pragmatic-cloud-migration",
+      "cybersecurity-quantum-era"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Enterprise cloud computing has matured from an infrastructure cost-saver to the foundational platform of corporate resilience and intellectual property protection."
+      }
+    ]
+  },
+  {
+    "id": "mag-006",
+    "slug": "the-c-suite-playbook",
+    "title": "The C-Suite Playbook",
+    "subtitle": "Resilience, Talent, & Generational Governance",
+    "description": "How high-performance corporate cultures are built and sustained amidst remote collaboration, technological churn, and multi-generational workforces.",
+    "overview": "Featuring Chief Human Resources Officers, organizational psychologists, and executive coaches from the world's most enduring corporations.",
+    "category": "Strategy & Governance",
+    "coverImage": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/objects-of-desire.pdf",
+    "publicationDate": "2026-05-15",
+    "volume": 14,
+    "issue": 5,
+    "pageCount": 88,
+    "featured": false,
+    "tags": ["Talent Retention", "Executive Coaching", "Board Governance", "Culture"],
+    "highlights": [
+      "Succession Planning in the S&P 500",
+      "Managing Distributed High-Stakes Teams",
+      "The Psychology of Executive Burnout",
+      "Retaining Next-Generation Engineering Talent"
+    ],
+    "relatedArticleSlugs": [
+      "remote-enterprise-at-scale",
+      "the-algorithmic-boardroom"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Even in an era defined by artificial intelligence and automated systems, organizational performance remains deeply rooted in human trust, aligned incentives, and decisive executive leadership."
+      }
+    ]
+  },
+  {
+    "id": "mag-007",
+    "slug": "healthcare-innovators",
+    "title": "Healthcare Innovators",
+    "subtitle": "The BioTech & MedTech Revolution",
+    "description": "Exploring precision medicine, AI-accelerated drug discovery, robotic surgical suites, and the new economics of global healthcare systems.",
+    "overview": "Case studies from Cambridge, Boston, Basel, and Tokyo detailing how computational biology is collapsing drug development timelines.",
+    "category": "Innovation",
+    "coverImage": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/the-table-remembers.pdf",
+    "publicationDate": "2026-04-15",
+    "volume": 14,
+    "issue": 4,
+    "pageCount": 110,
+    "featured": false,
+    "tags": ["Healthcare", "BioTech", "Pharma", "MedTech"],
+    "highlights": [
+      "Generative Chemistry in Oncology Therapies",
+      "Hospital Operating Systems of the Future",
+      "Longevity Science: Institutional Investment Trends",
+      "Global Health Equity & Supply Chain Access"
+    ],
+    "relatedArticleSlugs": [
+      "biotech-disruptors-gene-therapies"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Computational biology is transforming clinical trials from probabilistic gambles into engineering disciplines, creating trillions in enterprise value while saving lives."
+      }
+    ]
+  },
+  {
+    "id": "mag-008",
+    "slug": "supply-chains-multipolar-world",
+    "title": "Supply Chains in a Multipolar World",
+    "subtitle": "Navigating Geopolitics, Ports & Predictive Logistics",
+    "description": "How global chief operating officers are nearshoring, dual-sourcing, and utilizing satellite IoT telemetry to build shock-proof international trade routes.",
+    "overview": "In-depth reporting from maritime corridors in the Suez, Malacca, and Panama canals, alongside automated freight terminals across North America and Europe.",
+    "category": "Strategy & Governance",
+    "coverImage": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "pdfUrl": "/pdfs/the-salt-road.pdf",
+    "publicationDate": "2026-03-15",
+    "volume": 14,
+    "issue": 3,
+    "pageCount": 96,
+    "featured": false,
+    "tags": ["Supply Chain", "Global Trade", "Logistics", "Manufacturing"],
+    "highlights": [
+      "Friendshoring vs. Nearshoring: 3-Year Results",
+      "Predictive Maritime Routing & Port Automation",
+      "Semiconductor Sourcing Strategies for 2027",
+      "Hedging Raw Material Volatility"
+    ],
+    "relatedArticleSlugs": [
+      "architecture-of-resilience-supply-chains",
+      "smart-manufacturing-digital-twins"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The era of brittle just-in-time logistics has been replaced by adaptive resilience. Leaders must architect redundant supply ecosystems capable of withstanding geopolitical shifts."
+      }
+    ]
+  }
+]

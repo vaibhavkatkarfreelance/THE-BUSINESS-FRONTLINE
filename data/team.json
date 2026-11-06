@@ -1,0 +1,44 @@
+[
+  {
+    "id": "team-1",
+    "name": "Marcus Vance",
+    "role": "Editor-in-Chief & Publisher",
+    "bio": "Former financial correspondent at Bloomberg and Financial Times with over two decades reporting on Fortune 500 boards and global markets.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "team-2",
+    "name": "Dr. Sarah Sterling",
+    "role": "Executive Editor — Technology & AI",
+    "bio": "MIT alum and former senior strategist at Gartner, leading The Business Frontline's global coverage of enterprise intelligence and quantum computing.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "team-3",
+    "name": "Elena Marchetti",
+    "role": "Managing Editor — Global Markets",
+    "bio": "Coordinates our bureaus across London, Singapore, and New York, overseeing international macroeconomic analysis and executive interviews.",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "team-4",
+    "name": "Daniel Okafor",
+    "role": "Chief Technology Columnist",
+    "bio": "Author and enterprise architecture advisor decoding how cloud sovereignty, cyber defense, and AI agents reshape modern corporate infrastructure.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "team-5",
+    "name": "Leila Haddad",
+    "role": "Editor — Sustainable Finance & ESG",
+    "bio": "Specializes in green capital allocation, climate technology, and institutional governance across Europe, the Middle East, and Asia.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "team-6",
+    "name": "Priya Raman",
+    "role": "Digital Publishing Director",
+    "bio": "Drives The Business Frontline's digital platforms, interactive magazine editions, executive webinars, and global C-suite readership networks.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80"
+  }
+]
